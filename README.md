@@ -32,7 +32,7 @@ This is a web application that allows users to register, log in (using local aut
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BahaaJber1/secrets-project.git
+   git clone https://github.com/BahaaJber1/secrets.git
    cd secrets-project
    ```
 
